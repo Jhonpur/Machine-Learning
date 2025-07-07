@@ -1,0 +1,32 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtuale
+venv/
+env/
+
+# File temporanei / IDE / sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# File di configurazione locali
+.env
+*.sqlite3
+
+# Output dei grafici o PDF
+*.png
+*.pdf
+
+# Dati sensibili o CSV locali
+dati_pazienti.csv
+
+# File specifici di editor
+.vscode/
+.idea/
+
+# Compilazioni fpdf
+*.out
+*.aux
